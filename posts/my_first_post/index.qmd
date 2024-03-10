@@ -1,7 +1,7 @@
 ---
 title: "My First post"
-author: "Matt Crump"
-date: "2022-10-21"
+author: "Sandy Yu"
+date: "2024-03-10"
 categories: [goals,general]
 ---
 

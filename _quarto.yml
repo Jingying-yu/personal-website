@@ -8,12 +8,12 @@ website:
     right:
       - about.qmd
       - icon: github
-        href: https://github.com/CrumpLab/quartoCourseBlog
-      - icon: twitter
-        href: https://twitter.com/MattCrumpLab
+        href: https://github.com/Jingying-yu/personal-website.git
+      - icon: linkedin
+        href: https://www.linkedin.com/in/sandy-yu-8b1504261
 format:
   html:
-    theme: minty
+    theme: cosmo
     css: styles.css
 
 editor: visual
