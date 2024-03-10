@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "quartoCourseBlog"
+  title: "Sandy Yu"
   navbar:
     right:
       - about.qmd

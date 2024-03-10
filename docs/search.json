@@ -2,16 +2,51 @@
   {
     "objectID": "posts/my_first_post/index.html",
     "href": "posts/my_first_post/index.html",
-    "title": "My First post",
+    "title": "Travel June 2023",
     "section": "",
-    "text": "This is an example first post. Whatever you write here will appear inside your post.\nIt is possible to write lists:\nAnd make headers"
+    "text": "Page Last Updated: 9th March, 2024\nThis is an online travel journal logging my solo traveling days.\nIn June 2023, I flew to Europe for the first time and visited a few popular countries. Below are photos from my trip, taken in Switzerland, UK, France, and Italy.\nThe summer was warm and I was sweaty. I only brought 3 pairs of clothing and almost always walked upwards of 20k steps a day. But it was the most I could afford with the money I earned in a part-time Cafe-Batista job. Later, after I finished my internship at RBC, I had more money to spare and was able to travel to Europe again in the winter. (See my other post for photos) But the experience is fun and unlike any other trips I have been on, where I stayed at gorgeous hotels with my parents. It was less sight-seeing or shopping and more walking around the city and getting to know the area. It was good.\nTransit flight to Dublin landed me in Zurich, Switzerland. The swans are beautiful but not very nice :(\n\n\n\nBeautiful swans spotted in Zurich\n\n\nAfter a night in Dublin, I made my way to Italy. I planned on slowing traveling my way up the continent with ground transits. (This is not because I dislike flights, simply because it saves time and money. I booked quite a few overnight trains and buses to save money. NOT a good idea in retrospect)\n\n\n\nBeautiful Canal in Venice\n\n\nI officially started my trip in Venice, where I realized I booked my hotel in late June instead of lat May. It was pitch dark when I arrived at the docks and I had to book a same-day hotel on the spot. Not the most encouraging start of the trip :)\n\n\n\nSecond day in Venice\n\n\nI left Venice via an Italo train on the second afternoon. The train deposited me in Rome at 6a.m. the next day. The morning sun painted over the Roman architectures, casting a hint of holiness. I had breakfast outside, near the main intersections. A little bird hopped into (yes, INto) my plate and took my cabbage slice. It’s okay though, don’t like cabbage anyway :)\nAlthough my first impression of Rome was good, throughout my exploration, I slowly begin to dislike the place. The historical architecture are beautiful and most of the modern buildings are light in color (ex. light pink, yellow, etc), but the ground is often filthy. Narrow roads are littered with garbage bags and the smell of piss, not very sanitary.\n\n\n\nThe fountain is beautiful, although there are too many people around it\n\n\nI then took another train to Florence. I like this city better, somehow I feel like the history of the place is better preserved.\n\n\n\nWent to see a bronze piece by Michelangelo(?), but it was in construction. Took a photo of the city line instead\n\n\n\nWrapping up in Italy, I went to Paris where I did not go to the Louvre. (Was not a museum fan then, during my later trip in winter, I went to more museums than I can count)\n\n\n\nStreet of Paris. Everyone is SO fashionable, had to buy some new clothes.\n\n\n\n\n\nPantheon of Paris, much more well constructed than the one in Rome. Though all pantheons stem from the oldest one in Rome.\n\n\n\n\n\nPhoto of the Seine River, taken on June 2nd 2023 in Paris\n\n\n\n\n\nSunset in the Louvre Pyramid\n\n\n\nLondon, Britain was my last destination before coming back to Canada. It was as gloomy as all the stories pictured it to be, although the British has somehow constructed the city such that the architecture is most beautiful in a gloomy weather. Strange but interesting.\n\n\n\nGloomy London street\n\n\nThis concludes my first trip in Europe. It was fun, would not recommend booking so many overnight transit again:)"
   },
   {
-    "objectID": "posts/my_first_post/index.html#this-is-a-second-level-heading",
-    "href": "posts/my_first_post/index.html#this-is-a-second-level-heading",
-    "title": "My First post",
-    "section": "This is a second level heading",
-    "text": "This is a second level heading\nYou can include images, and many other kinds of content.\nIf you are using the visual editor in Rstudio you can drag images onto the editor to insert them into the document. Otherwise, you need to place the image inside of the folder for this post, and then you can insert it to your post directly, like this:\n\nThe first image in a blog post will also be used on the listings page."
+    "objectID": "posts/my_first_post/index.html#travel-log-june-2023",
+    "href": "posts/my_first_post/index.html#travel-log-june-2023",
+    "title": "Travel June 2023",
+    "section": "",
+    "text": "Page Last Updated: 9th March, 2024\nThis is an online travel journal logging my solo traveling days.\nIn June 2023, I flew to Europe for the first time and visited a few popular countries. Below are photos from my trip, taken in Switzerland, UK, France, and Italy.\nThe summer was warm and I was sweaty. I only brought 3 pairs of clothing and almost always walked upwards of 20k steps a day. But it was the most I could afford with the money I earned in a part-time Cafe-Batista job. Later, after I finished my internship at RBC, I had more money to spare and was able to travel to Europe again in the winter. (See my other post for photos) But the experience is fun and unlike any other trips I have been on, where I stayed at gorgeous hotels with my parents. It was less sight-seeing or shopping and more walking around the city and getting to know the area. It was good.\nTransit flight to Dublin landed me in Zurich, Switzerland. The swans are beautiful but not very nice :(\n\n\n\nBeautiful swans spotted in Zurich\n\n\nAfter a night in Dublin, I made my way to Italy. I planned on slowing traveling my way up the continent with ground transits. (This is not because I dislike flights, simply because it saves time and money. I booked quite a few overnight trains and buses to save money. NOT a good idea in retrospect)\n\n\n\nBeautiful Canal in Venice\n\n\nI officially started my trip in Venice, where I realized I booked my hotel in late June instead of lat May. It was pitch dark when I arrived at the docks and I had to book a same-day hotel on the spot. Not the most encouraging start of the trip :)\n\n\n\nSecond day in Venice\n\n\nI left Venice via an Italo train on the second afternoon. The train deposited me in Rome at 6a.m. the next day. The morning sun painted over the Roman architectures, casting a hint of holiness. I had breakfast outside, near the main intersections. A little bird hopped into (yes, INto) my plate and took my cabbage slice. It’s okay though, don’t like cabbage anyway :)\nAlthough my first impression of Rome was good, throughout my exploration, I slowly begin to dislike the place. The historical architecture are beautiful and most of the modern buildings are light in color (ex. light pink, yellow, etc), but the ground is often filthy. Narrow roads are littered with garbage bags and the smell of piss, not very sanitary.\n\n\n\nThe fountain is beautiful, although there are too many people around it\n\n\nI then took another train to Florence. I like this city better, somehow I feel like the history of the place is better preserved.\n\n\n\nWent to see a bronze piece by Michelangelo(?), but it was in construction. Took a photo of the city line instead\n\n\n\nWrapping up in Italy, I went to Paris where I did not go to the Louvre. (Was not a museum fan then, during my later trip in winter, I went to more museums than I can count)\n\n\n\nStreet of Paris. Everyone is SO fashionable, had to buy some new clothes.\n\n\n\n\n\nPantheon of Paris, much more well constructed than the one in Rome. Though all pantheons stem from the oldest one in Rome.\n\n\n\n\n\nPhoto of the Seine River, taken on June 2nd 2023 in Paris\n\n\n\n\n\nSunset in the Louvre Pyramid\n\n\n\nLondon, Britain was my last destination before coming back to Canada. It was as gloomy as all the stories pictured it to be, although the British has somehow constructed the city such that the architecture is most beautiful in a gloomy weather. Strange but interesting.\n\n\n\nGloomy London street\n\n\nThis concludes my first trip in Europe. It was fun, would not recommend booking so many overnight transit again:)"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "An undergraduate student at University of Toronto double majoring in Statistics and Economics with Focus in Data Analysis.\nCurrently looking for more internship opportunities."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "Education",
+    "text": "Education\nUniversity of Toronto, Ontario, Canada\nBachelor in Statistics & Economics with Focus in Data Analysis | Sept 2021 - May 2025"
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "About",
+    "section": "Experience",
+    "text": "Experience\nRoyal Bank of Canada | Avion Rewards/Ampli Operations Intern | Sept 2023 - Dec 2023"
+  },
+  {
+    "objectID": "about.html#resume",
+    "href": "about.html#resume",
+    "title": "About",
+    "section": "Resume",
+    "text": "Resume\nFor a full description of my credentials and experience, here is a copy of my resume."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Sandy Yu",
+    "section": "",
+    "text": "Travel June 2023\n\n\n\n\n\n\ntravel\n\n\n\n\n\n\n\n\n\nMar 10, 2024\n\n\nSandy Yu\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "readme.html",
@@ -96,33 +131,5 @@
     "title": "Using this quarto course blog template",
     "section": "",
     "text": "See this growing list of quarto resources for much, much more:\nhttps://github.com/mcanouil/awesome-quarto"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "quartoCourseBlog",
-    "section": "",
-    "text": "My First post\n\n\n\n\n\n\ngoals\n\n\ngeneral\n\n\n\n\n\n\n\n\n\nMar 10, 2024\n\n\nSandy Yu\n\n\n\n\n\n\n\n\n\n\n\n\nExample assignment\n\n\n\n\n\n\ngoals\n\n\ngeneral\n\n\n\n\n\n\n\n\n\nOct 21, 2022\n\n\nMatt Crump\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "The content on this page is from about.qmd. Edit that file to change how this page looks.\n“About” pages are special quarto template pages, with multiple options: https://quarto.org/docs/websites/website-about.html.\nTry changing the template type from jolla to one of the other options for a different look and feel."
-  },
-  {
-    "objectID": "posts/Example_assignment/index.html",
-    "href": "posts/Example_assignment/index.html",
-    "title": "Example assignment",
-    "section": "",
-    "text": "This assignment engages you in the process of introspection. Your task is to use introspection to evaluate and describe your own mental imagery abilities. Attempt to answer the following kinds of questions. What is your mental imagery like? Do you have mental imagery for different kinds of senses? Is your mental imagery vivid and life-like or very different from normal perception? How would you describe your mental imagery?\nYou should write a minimum of 250 words, but feel free to write more. Submit your document on blackboard by the due date."
-  },
-  {
-    "objectID": "posts/Example_assignment/index.html#my-mental-imagery",
-    "href": "posts/Example_assignment/index.html#my-mental-imagery",
-    "title": "Example assignment",
-    "section": "My mental imagery",
-    "text": "My mental imagery\nMy mental imagery is like…"
   }
 ]

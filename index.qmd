@@ -1,5 +1,5 @@
 ---
-title: "quartoCourseBlog"
+title: "Sandy Yu"
 listing:
   contents: posts
   sort: "date desc"

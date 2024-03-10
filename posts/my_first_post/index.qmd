@@ -1,26 +1,58 @@
 ---
-title: "My First post"
+title: "Travel June 2023"
 author: "Sandy Yu"
 date: "2024-03-10"
-categories: [goals,general]
+categories: [travel]
 ---
 
-This is an example first post. Whatever you write here will appear inside your post.
+## Travel Log June 2023
 
-It is possible to write lists:
+**Page Last Updated: 9th March, 2024**
 
-1.  One
-2.  Two
-3.  Three
+This is an online travel journal logging my solo traveling days.
 
-And make headers
+In June 2023, I flew to Europe for the first time and visited a few popular countries. Below are photos from my trip, taken in Switzerland, UK, France, and Italy.
 
-## This is a second level heading
+The summer was warm and I was sweaty. I only brought 3 pairs of clothing and almost always walked upwards of 20k steps a day. But it was the most I could afford with the money I earned in a part-time Cafe-Batista job. Later, after I finished my internship at RBC, I had more money to spare and was able to travel to Europe again in the winter. (See my other post for photos) But the experience is fun and unlike any other trips I have been on, where I stayed at gorgeous hotels with my parents. It was less sight-seeing or shopping and more walking around the city and getting to know the area. It was good.
 
-You can include images, and many other kinds of content.
+Transit flight to Dublin landed me in Zurich, Switzerland. The swans are beautiful but not very nice :(
 
-If you are using the visual editor in Rstudio you can drag images onto the editor to insert them into the document. Otherwise, you need to place the image inside of the folder for this post, and then you can insert it to your post directly, like this:
+![Beautiful swans spotted in Zurich](photos/Zurich.jpg)
 
-![](thumbnail.jpg)
+After a night in Dublin, I made my way to Italy. I planned on slowing traveling my way up the continent with ground transits. (This is not because I dislike flights, simply because it saves time and money. I booked quite a few overnight trains and buses to save money. NOT a good idea in retrospect)
 
-The first image in a blog post will also be used on the listings page.
+![Beautiful Canal in Venice](photos/Venice.JPG)
+
+I officially started my trip in Venice, where I realized I booked my hotel in late June instead of lat May. It was pitch dark when I arrived at the docks and I had to book a same-day hotel on the spot. Not the most encouraging start of the trip :)
+
+![Second day in Venice](photos/Venice2.jpg)
+
+I left Venice via an Italo train on the second afternoon. The train deposited me in Rome at 6a.m. the next day. The morning sun painted over the Roman architectures, casting a hint of holiness. I had breakfast outside, near the main intersections. A little bird hopped into (yes, INto) my plate and took my cabbage slice. It's okay though, don't like cabbage anyway :)
+
+Although my first impression of Rome was good, throughout my exploration, I slowly begin to dislike the place. The historical architecture are beautiful and most of the modern buildings are light in color (ex. light pink, yellow, etc), but the ground is often filthy. Narrow roads are littered with garbage bags and the smell of piss, not very sanitary.
+
+![The fountain is beautiful, although there are too many people around it](photos/Rome_Fountain.JPG)
+
+I then took another train to Florence. I like this city better, somehow I feel like the history of the place is better preserved.
+
+![Went to see a bronze piece by Michelangelo(?), but it was in construction. Took a photo of the city line instead](photos/Florence.JPG)
+
+------
+
+Wrapping up in Italy, I went to Paris where I did not go to the Louvre. (Was not a museum fan then, during my later trip in winter, I went to more museums than I can count)
+
+![Street of Paris. Everyone is SO fashionable, had to buy some new clothes.](photos/Paris_street_tower.JPG)
+
+![Pantheon of Paris, much more well constructed than the one in Rome. Though all pantheons stem from the oldest one in Rome.](photos/Paris_Pantheon.JPG)
+
+![Photo of the Seine River, taken on June 2nd 2023 in Paris](photos/Paris.jpg)
+
+![Sunset in the Louvre Pyramid](photos/Sunset_in_Louvre.JPG)
+
+------
+
+London, Britain was my last destination before coming back to Canada. It was as gloomy as all the stories pictured it to be, although the British has somehow constructed the city such that the architecture is most beautiful in a gloomy weather. Strange but interesting.
+
+![Gloomy London street](photos/London_Gloomy.JPG)
+
+This concludes my first trip in Europe. It was fun, would not recommend booking so many overnight transit again:)
